@@ -1,13 +1,13 @@
 {
-  "name": "eslint-config-js-only",
+  "name": "eslint-config-js-standards",
   "version": "1.0.0",
   "description": "Shareable ESLint configurations for Javascript",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CovalienceGithub/eslint-config-js-only"
+    "url": "https://github.com/CovalienceGithub/eslint-config-js-standards"
   },
-  "homepage": "https://github.com/CovalienceGithub/eslint-config-js-only",
+  "homepage": "https://github.com/CovalienceGithub/eslint-config-js-standards",
   "keywords": [
     "config",
     "es2015",
@@ -20,10 +20,13 @@
     "code",
     "quality",
     "covalience",
+    "eslint configuration",
+    "eslint coding standards",
+    "Covalience, LLC",
     "styleguide"
   ],
-  "author": "Covalience (https://covalience.com)",
-  "license": "ISC",
+  "author": "Covalience, LLC (https://covalience.com)",
+  "license": "MIT",
   "peerDependencies": {
     "eslint": ">=8.27.0"
   }

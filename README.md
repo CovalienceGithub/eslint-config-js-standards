@@ -2,7 +2,7 @@
 
 ### Overview
 
-This documentation provides developers with a step-by-step guide on integrating shareable ESLint configuration `eslint-config-js-only` for javascript rules in any front-end project. ESLint is a static code analysis tool for identifying and fixing common programming errors and enforcing coding standards.
+This documentation provides developers with a step-by-step guide on integrating shareable ESLint configuration `eslint-config-js-standards` for javascript rules in any front-end project. ESLint is a static code analysis tool for identifying and fixing common programming errors and enforcing coding standards.
 
 > <br/>
 >
@@ -12,15 +12,15 @@ This documentation provides developers with a step-by-step guide on integrating 
 
 #### Installation
 
-By running the following command, we are installing the latest version of eslint-config-js-only and its dependencies:
+By running the following command, we are installing the latest version of eslint-config-js-standards and its dependencies:
 
 ```
- npm install --save-dev eslint  git+https://github.com/CovalienceGithub/eslint-config-js-only.git
+ npm install --save-dev eslint  eslint-config-js-standards
 ```
 
 #### Minimum dependencies version requirement:
 
-The following are the minimum versions of the dependencies required to use `eslint-config-js-only`:
+The following are the minimum versions of the dependencies required to use `eslint-config-js-standards`:
 
 1.  `eslint` >= 8.27.0
 
@@ -31,14 +31,14 @@ The following are the minimum versions of the dependencies required to use `esli
 
 ### Usage
 
-Once the `eslint-config-js-only` package is installed, you can use by specifying `eslint-config-js-only` in the [`extends`](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) section in your ESLint configuration.
+Once the `eslint-config-js-standards` package is installed, you can use by specifying `eslint-config-js-standards` in the [`extends`](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) section in your ESLint configuration.
 
 1. Update **.eslintrc.{js,yml,json,cjs}** with the following:
 
 ```diff
 extends:[
 - 'eslint:recommended',
-+ 'eslint-config-js-only'
++ 'eslint-config-js-standards'
 ]
 
 ```
