@@ -7,32 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### [Unreleased]
 
-- v1.1.2 add code examples for recommended typescript eslint rules into Typescript style guide document.
-- v1.1.2 add code examples for recommended typescript eslint rules into Typescript style guide document.
+- v1.0.1 - added npm status badges
 
-### [1.0.0] - 2024-02-19
+### [1.0.0] - 2024-03-22
 
 #### Added
 
-- v1.0.0 - added finalized eslint javascript and typescript rules (155 )
-
-### [1.1.0] - 2024-02-27
-
-## Added
-
-- v1.1.0 - added typescript style guide document.
-- v1.1.0 - added javascript style guide document.
-
-### [1.1.1] - 2024-02-27
+- v1.0.0 - added finalized eslint javascript rules
+- v1.0.0 - added typescript style guide document.
+- v1.0.0 add code examples for recommended javascript eslint rules into Javascript style guide document.
 
 ### Removed
 
 - "no-shadow" javascript rule.
-- "@typescript-eslint/consistent-type-definitions" typescript rule.
-- "@typescript-eslint/non-nullable-type-assertion-style" typescript rule.
-- "@typescript-eslint/no-non-null-assertion" typescript rule.
-
-### Changed
-
-- updated typescript style guide document with correct code examples.
-- updated javascript style guide document with correct code examples

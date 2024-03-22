@@ -1,5 +1,7 @@
 ## Shareable ESLint Configurations for Javascript
 
+[![npm version](https://img.shields.io/npm/v/eslint-config-js-standards?style=flat-square)](https://www.npmjs.com/package/eslint-config-js-standards) [![npm downloads](https://img.shields.io/npm/dm/eslint-config-js-standards?style=flat-square)](https://www.npmjs.com/package/eslint-config-js-standards)
+
 ### Overview
 
 This documentation provides developers with a step-by-step guide on integrating shareable ESLint configuration `eslint-config-js-standards` for javascript rules in any front-end project. ESLint is a static code analysis tool for identifying and fixing common programming errors and enforcing coding standards.
