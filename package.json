@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-js-standards",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shareable ESLint configurations for Javascript",
   "main": "index.js",
   "repository": {
@@ -18,7 +18,7 @@
     "es2016",
     "es2017",
     "es2018",
-    "Covalience, LLC"    
+    "Covalience, LLC"
   ],
   "author": "Covalience, LLC (https://covalience.com)",
   "license": "MIT",
